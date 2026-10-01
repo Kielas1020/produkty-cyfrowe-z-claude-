@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kdp-publisher"
+version = "0.1.0"
+description = "Automatyzacja publikacji książek (Paperback) w Amazon KDP – Playwright + persistent context"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["playwright>=1.44"]
+
+[project.optional-dependencies]
+pdf = ["pypdf>=4.0"]
+dev = ["pytest>=8.0", "pypdf>=4.0"]
+
+[project.scripts]
+kdp-publisher = "kdp_publisher.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"

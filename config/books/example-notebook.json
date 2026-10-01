@@ -1,0 +1,38 @@
+{
+  "name": "example-notebook-pl",
+  "enabled": true,
+  "metadata": {
+    "title": "Notatnik dzienny: 120 stron w kropki",
+    "subtitle": "Minimalistyczny notes do pracy i nauki",
+    "series_title": "",
+    "edition_number": "",
+    "author": "Twoje Imię Nazwisko",
+    "description": "Notatnik o objętości 120 stron w kropki, zaprojektowany do codziennego notowania, planowania i szkicowania. Środek w kolorze białym, okładka matowa, format 6 x 9 cali – mieści się w każdej torbie i plecaku.",
+    "keywords": [
+      "notatnik w kropki",
+      "notes do pisania",
+      "dziennik",
+      "bullet journal",
+      "prezent dla ucznia",
+      "zeszyt a5",
+      "planer dzienny"
+    ],
+    "language": "Polish",
+    "adult_content": false,
+    "ai_disclosure": "none",
+    "trim_size": "6 x 9 in",
+    "interior_paper": "white",
+    "interior_ink": "black",
+    "bleed": "no",
+    "cover_finish": "matte",
+    "price": "",
+    "isbn_option": "free",
+    "isbn": "",
+    "imprint": "",
+    "notes": "Pierwsza książka testowa – uruchom najpierw z --dry-run"
+  },
+  "files": {
+    "interior_pdf": "pdf/example-interior.pdf",
+    "cover_pdf": "pdf/example-cover.pdf"
+  }
+}

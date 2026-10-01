@@ -1,0 +1,26 @@
+target-version = "py310"
+line-length = 130
+
+[lint]
+select = ["E", "F", "I", "UP", "SIM", "B", "RUF", "TRY"]
+ignore = [
+  # Automatyzacja UI żyje na granicy z cudzym kodem (strona, Playwright):
+  # łapiemy szeroko i logujemy, zamiast pozwolić wyjątkowi zabić paczkę 50 książek.
+  "BLE001",
+  "S110",
+  "S112",
+  # Lokalne znaczniki czasu (raporty czytamy na własnej maszynie).
+  "DTZ005",
+  # Komunikaty po polsku: myślniki, „×” i inne znaki typograficzne są zamierzone.
+  "RUF001",
+  "RUF002",
+  "RUF003",
+  # Krótkie, czytelne komunikaty wyjątków w miejscu użycia.
+  "TRY003",
+  "TRY300",
+  # Błędy konfiguracyjne i walidacyjne logujemy bez tracebacku (użytkownik widzi komunikat).
+  "TRY400",
+]
+
+[lint.per-file-ignores]
+"tests/*" = ["S101"]

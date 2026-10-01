@@ -1,0 +1,40 @@
+{
+  "browser": {
+    "user_data_dir": "~/.kdp-automation/chrome-profile",
+    "channel": null,
+    "headless": false,
+    "slow_mo": 0,
+    "locale": "pl-PL",
+    "timezone_id": "Europe/Warsaw",
+    "viewport": { "width": 1440, "height": 900 },
+    "user_agent": null,
+    "action_timeout_ms": 20000,
+    "navigation_timeout_ms": 60000,
+    "record_video": false,
+    "no_sandbox": false
+  },
+  "runtime": {
+    "dry_run": true,
+    "publish": false,
+    "max_books": null,
+    "stop_on_error": true,
+    "max_retries": 2,
+    "retry_backoff_min_s": 5.0,
+    "retry_backoff_max_s": 20.0,
+    "marketplace": "en_US",
+    "ui_language": "en",
+    "captcha_wait_s": 900,
+    "captcha_wait_enabled": true,
+    "login_wait_s": 900,
+    "artifacts_dir": "artifacts",
+    "screenshots": true,
+    "traces": true,
+    "log_level": "INFO",
+    "log_file": "artifacts/kdp.log",
+    "skip_existing_titles": true,
+    "preflight_pdf": true
+  },
+  "pacing": {
+    "preset": "normal"
+  }
+}

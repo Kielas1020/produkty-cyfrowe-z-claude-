@@ -1,0 +1,9 @@
+# Podstawa (jedyna twarda zależność)
+playwright>=1.44
+
+# Opcjonalnie: pre-flight PDF (liczba stron, rozmiar strony vs trim size).
+# Bez niego skrypt działa, ale pomija głęboką walidację plików.
+pypdf>=4.0
+
+# Tylko do uruchamiania testów
+pytest>=8.0

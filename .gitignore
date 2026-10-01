@@ -1,0 +1,22 @@
+# Środowisko
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Artefakty uruchomień (screenshoty, trace, raporty, logi)
+artifacts/
+
+# Profil przeglądarki + sesja (NIGDY tego nie commituj – to działające ciasteczka)
+chrome-profile/
+*.storage-state.json
+.env
+
+# Pliki PDF (zazwyczaj duże – trzymaj je poza repo lub w LFS)
+config/books/pdf/*.pdf
+!config/books/pdf/.gitkeep
+
+# Narzędzia
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
