@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "01-daily-planner",
+    "title": "Printable Daily Planner, Undated Hourly Schedule, To Do List & Top 3 Priorities, Minimalist PDF, US Letter & A4",
+    "price_usd": 3.49,
+    "hook": "Plan your day in 5 minutes: hourly schedule from 6am to 10pm, your top 3 priorities, a to-do checklist, water tracker and space for notes & gratitude.",
+    "tags": ["daily planner", "printable planner", "undated planner", "hourly schedule", "to do list", "daily schedule", "minimalist planner", "productivity", "work planner", "student planner", "day planner pdf", "planner insert", "a4 letter planner"]
+  },
+  {
+    "slug": "02-weekly-planner",
+    "title": "Printable Weekly Planner, Undated Week at a Glance, Minimalist Weekly Schedule PDF, US Letter & A4",
+    "price_usd": 2.99,
+    "hook": "See your whole week on one page: a box for every day plus a 'Focus this week' section to keep you on track.",
+    "tags": ["weekly planner", "printable planner", "week at a glance", "undated planner", "weekly schedule", "weekly to do list", "minimalist planner", "desk planner", "family planner", "planner insert", "productivity", "student planner", "weekly organizer"]
+  },
+  {
+    "slug": "03-monthly-budget-planner",
+    "title": "Monthly Budget Planner Printable, Income & Expense Tracker, Savings and Debt, Budget Worksheet PDF, US Letter & A4",
+    "price_usd": 3.99,
+    "hook": "Tell every dollar where to go: income, 16 expense categories with budget vs actual, savings & debt payments and a month-end summary.",
+    "tags": ["budget planner", "monthly budget", "budget printable", "expense tracker", "finance planner", "money planner", "budget worksheet", "savings tracker", "bill tracker", "household budget", "zero based budget", "personal finance", "budget template"]
+  },
+  {
+    "slug": "04-habit-tracker",
+    "title": "Printable Habit Tracker, Monthly 31 Day Habit Chart, Goal & Routine Tracker PDF, US Letter & A4",
+    "price_usd": 2.49,
+    "hook": "Track up to 15 habits for a full month: fill a circle every day you show up, then reflect on what worked.",
+    "tags": ["habit tracker", "printable tracker", "monthly tracker", "habit chart", "routine tracker", "goal tracker", "daily habits", "self care planner", "wellness tracker", "bullet journal", "31 day tracker", "productivity", "new year goals"]
+  },
+  {
+    "slug": "05-meal-planner-grocery-list",
+    "title": "Weekly Meal Planner & Grocery List Printable, Menu Planner, Shopping List by Category PDF, US Letter & A4",
+    "price_usd": 2.99,
+    "hook": "Plan breakfast, lunch, dinner and snacks for 7 days, then shop once with a grocery list split into Produce, Protein, Dairy, Pantry, Frozen and Other.",
+    "tags": ["meal planner", "grocery list", "menu planner", "meal plan printable", "shopping list", "weekly meal plan", "food planner", "kitchen printable", "family meal plan", "meal prep", "diet planner", "healthy eating", "fridge planner"]
+  },
+  {
+    "slug": "06-reading-log",
+    "title": "Printable Reading Log, Book Tracker with Ratings, Reading Journal Page, To Be Read List PDF, US Letter & A4",
+    "price_usd": 2.49,
+    "hook": "Keep every book in one place: title, author, genre, pages, date finished and a star rating, plus a 'read next' list and favourite quotes.",
+    "tags": ["reading log", "book tracker", "reading journal", "book log", "reading tracker", "tbr list", "book lover gift", "bookish printable", "reading challenge", "book review", "library log", "kids reading log", "book club"]
+  },
+  {
+    "slug": "07-workout-log",
+    "title": "Printable Workout Log, Gym Tracker, Strength & Cardio Fitness Journal, Exercise Planner PDF, US Letter & A4",
+    "price_usd": 2.99,
+    "hook": "Log 12 exercises with 4 sets each, your cardio sessions, energy, sleep, mood and personal bests, all on one page.",
+    "tags": ["workout log", "fitness tracker", "gym log", "workout planner", "exercise log", "fitness journal", "strength training", "weight lifting log", "cardio tracker", "fitness planner", "gym tracker", "personal trainer", "home workout"]
+  },
+  {
+    "slug": "08-goal-planner",
+    "title": "Goal Planner Printable, Goal Setting Worksheet, Milestones & Weekly Action Plan, Quarterly Goals PDF, US Letter & A4",
+    "price_usd": 2.99,
+    "hook": "Turn one big goal into this week's actions: your why, obstacles and fixes, 5 milestones, a 6-week action plan and the reward you'll earn.",
+    "tags": ["goal planner", "goal setting", "goal worksheet", "action plan", "smart goals", "quarterly goals", "vision planner", "life planner", "goal tracker", "productivity", "new year planner", "personal growth", "business goals"]
+  },
+  {
+    "slug": "09-debt-payoff-tracker",
+    "title": "Debt Payoff Tracker Printable, Debt Snowball Coloring Chart, Loan & Credit Card Payment Log PDF, US Letter & A4",
+    "price_usd": 2.99,
+    "hook": "Watch your debt disappear: colour in one of 100 boxes for every 1% paid off and log each payment, interest and new balance.",
+    "tags": ["debt payoff", "debt tracker", "debt snowball", "debt free", "payoff tracker", "loan tracker", "credit card debt", "savings challenge", "finance tracker", "budget printable", "money tracker", "debt avalanche", "coloring tracker"]
+  },
+  {
+    "slug": "10-cleaning-schedule",
+    "title": "Cleaning Schedule Printable, Daily Weekly Monthly Cleaning Checklist, House Chore Chart PDF, US Letter & A4",
+    "price_usd": 2.99,
+    "hook": "A tidy home in 15 minutes a day: daily tasks for each day of the week, plus weekly and monthly checklists and space for extra chores.",
+    "tags": ["cleaning schedule", "cleaning checklist", "chore chart", "cleaning planner", "house cleaning", "home organization", "weekly cleaning", "household planner", "cleaning printable", "chore list", "home planner", "speed cleaning", "cleaning routine"]
+  }
+]
